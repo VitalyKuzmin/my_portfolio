@@ -32,7 +32,7 @@ Senior AI Engineer и Full Stack Engineer с 9+ годами опыта разр
 - Stack: Python, FastAPI, LangGraph, LangChain, LlamaIndex, local LLMs, Ollama, LiteLLM, Langfuse, LLM-as-a-judge, RAG, SQL agents, PostgreSQL, Docker.
 
 **Lead AI Engineer**  
-*BL Group R&D Center | июнь 2022 - февраль 2025*
+*Центр Инновационных Разработок BL Group | июнь 2022 - февраль 2025*
 
 - Руководил разработкой [Smart Publish](Smart_Publish.md), AI-assisted publishing platform для подготовки, адаптации, планирования и публикации контента.
 - Спроектировал predictable LLM workflow для обработки черновиков, переписывания, редактирования, форматирования, подготовки metadata и channel-specific adaptation.

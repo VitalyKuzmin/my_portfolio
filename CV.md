@@ -36,9 +36,9 @@ InterProCom разрабатывает enterprise software для управле
 
 <div style="page-break-before: always;"></div>
 
-### BL Group R&D Center | Lead AI Engineer | июнь 2022 - февраль 2025
+### Центр Инновационных Разработок BL Group | Lead AI Engineer | июнь 2022 - февраль 2025
 
-BL Group R&D Center занимался software prototypes, automation products и AI-assisted workflows.
+Центр Инновационных Разработок BL Group занимался software prototypes, automation products и AI-assisted workflows.
 
 - Руководил разработкой Smart Publish, AI-assisted publishing platform для создания, адаптации, проверки, планирования и публикации контента.
 - Спроектировал predictable LLM workflow для draft processing, rewriting, editing, formatting, metadata preparation, channel-specific adaptation и human review.
