@@ -5,7 +5,7 @@ Senior AI Engineer / Lead AI Engineer | Тбилиси, Грузия | Удал�
 
 ## Профиль
 
-Senior AI Engineer и Full Stack Engineer с 8+ годами опыта разработки сложных программных систем и 3+ годами фокуса на LLM orchestration, RAG, AI agents, local/on-premise models и enterprise AI platforms.
+Senior AI Engineer и Full Stack Engineer с 9+ годами опыта разработки сложных программных систем и 3+ годами фокуса на LLM orchestration, RAG, AI agents, local/on-premise models и enterprise AI platforms.
 
 Опыт в создании практических AI-систем для реальных бизнес-процессов: multi-agent orchestration, private AI infrastructure, domain RAG, SQL agents, LLM evaluation, local LLM deployment, observability, enterprise API integrations и technical leadership.
 
@@ -46,7 +46,7 @@ BL Group R&D Center занимался software prototypes, automation products 
 - Развивал AI assistant platform/R&D-направление: local LLMs, agent workflows, MCP, memory, Langfuse evaluation и tool use.
 - Сократил repetitive editorial preparation и formatting work до 60% и повысил content consistency через platform-specific adaptation.
 
-### BL Group | Team Lead / Lead Software Engineer | июль 2018 - июнь 2022
+### BL Group | Team Lead / Lead Software Engineer | апрель 2017 - июнь 2022
 
 BL Group разрабатывала software products для lighting design, lighting calculations и urban lighting workflows.
 

@@ -8,7 +8,7 @@
 
 **О себе**
 
-Senior AI Engineer и Full Stack Engineer с 8+ годами опыта разработки сложных программных систем и 3+ годами фокуса на LLM, RAG, AI-агентах, локальных моделях и private/on-premise AI-платформах. Специализируюсь на практических AI-системах для реальных бизнес-процессов: multi-agent orchestration, domain RAG, SQL agents, LLM evaluation, локальная LLM-инфраструктура, observability и интеграции с корпоративными API.
+Senior AI Engineer и Full Stack Engineer с 9+ годами опыта разработки сложных программных систем и 3+ годами фокуса на LLM, RAG, AI-агентах, локальных моделях и private/on-premise AI-платформах. Специализируюсь на практических AI-системах для реальных бизнес-процессов: multi-agent orchestration, domain RAG, SQL agents, LLM evaluation, локальная LLM-инфраструктура, observability и интеграции с корпоративными API.
 
 ### Ключевые проекты
 
@@ -42,7 +42,7 @@ Senior AI Engineer и Full Stack Engineer с 8+ годами опыта разр
 - Stack: Python, FastAPI, OpenAI API, Telegram API, REST APIs, CMS integrations, Google Cloud Platform (GCP), n8n, LangGraph, Langfuse, prompt engineering.
 
 **Team Lead / Lead Software Engineer**  
-*BL Group | июль 2018 - июнь 2022*
+*BL Group | апрель 2017 - июнь 2022*
 
 - Вырос от Full Stack Developer до Team Lead, управлял кросс-функциональной командой до 10+ человек: C++, Python, frontend, QA, design, analytics.
 - **Urban Lighting:** руководил разработкой ML-платформы для реконструкции городского освещения: field inventory, mobile laboratory measurements, geospatial mapping, LightGBM-based illuminance prediction.
