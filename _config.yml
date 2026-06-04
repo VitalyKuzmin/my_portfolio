@@ -1,0 +1,22 @@
+description: "2026"
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+minima:
+  skin: dark
+  hide_site_feed_link: true
+  show_excerpts: false
+  nav_pages:
+    - Axioma_AI.md
+    - hAi.md
+    - Smart_Publish.md
+    - Urban_Lighting.md
+    - Light-in-Night.md
+author:
+  name: Vitaliy Kuzmin
+  email: "viton930@gmail.com"
+
+google_analytics: G-CEX9LP3BVB
