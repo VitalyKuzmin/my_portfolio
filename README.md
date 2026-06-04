@@ -2,9 +2,9 @@
 
 **Senior AI Engineer / Lead AI Engineer**
 
-| Резюме        | Email                                           | LinkedIn                                                               | Локация          | Формат                         |
-| ------------- | ----------------------------------------------- | ---------------------------------------------------------------------- | ---------------- | ------------------------------ |
-| [PDF](CV.pdf) | [viton930@gmail.com](mailto:viton930@gmail.com) | [Vitaliy Kuzmin](https://www.linkedin.com/in/vitaliy-kuzmin-ai-engineer) | Тбилиси, Грузия  | Удаленно / full-time / contract |
+| Резюме        | Email                                           | Telegram                         | Локация         | Формат                         |
+| ------------- | ----------------------------------------------- | -------------------------------- | --------------- | ------------------------------ |
+| [PDF](CV.pdf) | [viton930@gmail.com](mailto:viton930@gmail.com) | [@MostYes](https://t.me/MostYes) | Тбилиси, Грузия | Удаленно / full-time / contract |
 
 **О себе**
 

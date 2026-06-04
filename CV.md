@@ -1,7 +1,7 @@
 # Виталий Кузьмин
 
 Senior AI Engineer / Lead AI Engineer | Тбилиси, Грузия | Удаленно / full-time / contract  
-[viton930@gmail.com](mailto:viton930@gmail.com) | [linkedin.com/in/vitaliy-kuzmin-ai-engineer](https://www.linkedin.com/in/vitaliy-kuzmin-ai-engineer) | [vitalykuzmin.github.io/portfolio](https://vitalykuzmin.github.io/portfolio)
+[viton930@gmail.com](mailto:viton930@gmail.com) | [@MostYes](https://t.me/MostYes) | [vitalykuzmin.github.io/my_portfolio](https://vitalykuzmin.github.io/my_portfolio)
 
 ## Профиль
 
