@@ -2,9 +2,9 @@
 
 **Senior AI Engineer / Lead AI Engineer**
 
-| Резюме        | Email                                           | Telegram                         | Локация         | Формат                         |
-| ------------- | ----------------------------------------------- | -------------------------------- | --------------- | ------------------------------ |
-| [PDF](CV.pdf) | [viton930@gmail.com](mailto:viton930@gmail.com) | [@MostYes](https://t.me/MostYes) | Тбилиси, Грузия | Удаленно / full-time / contract |
+| Резюме        | Email                                           | Telegram                         | Формат                         |
+| ------------- | ----------------------------------------------- | -------------------------------- | ------------------------------ |
+| [PDF](CV.pdf) | [viton930@gmail.com](mailto:viton930@gmail.com) | [@MostYes](https://t.me/MostYes) | Удаленно / full-time / contract |
 
 **О себе**
 
